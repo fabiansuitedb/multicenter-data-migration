@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_sdb_numeracion_documento">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Numeración Documento</name>
+  <customvalues>
+    <customvalue scriptid="val_33955_5469654_sb1_552">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Preimpresa</value>
+    </customvalue>
+    <customvalue scriptid="val_33956_5469654_sb1_145">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Autoimpresa</value>
+    </customvalue>
+  </customvalues>
+</customlist>

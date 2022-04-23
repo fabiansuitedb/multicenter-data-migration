@@ -1,0 +1,24 @@
+<customlist scriptid="customlist_sdb_tipo_de_compra">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Tipo de compra</name>
+  <customvalues>
+    <customvalue scriptid="val_33008_5469654_sb1_734">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Compra Local</value>
+    </customvalue>
+    <customvalue scriptid="val_33009_5469654_sb1_172">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Servicio</value>
+    </customvalue>
+    <customvalue scriptid="val_33010_5469654_sb1_766">
+      <abbreviation>I</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Importacion</value>
+    </customvalue>
+  </customvalues>
+</customlist>

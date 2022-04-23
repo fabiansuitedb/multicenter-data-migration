@@ -1,0 +1,79 @@
+<customlist scriptid="customlist_sdb_formas_de_pagos">
+  <description>Lista a usar para históricos de ventas</description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Formas de pagos (Historico)</name>
+  <customvalues>
+    <customvalue scriptid="val_42734_5469654_sb1_173">
+      <abbreviation>E</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Efectivo</value>
+    </customvalue>
+    <customvalue scriptid="val_42735_5469654_sb1_595">
+      <abbreviation>A</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Anticipos</value>
+    </customvalue>
+    <customvalue scriptid="val_42736_5469654_sb1_581">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Notas de Cambio</value>
+    </customvalue>
+    <customvalue scriptid="val_42737_5469654_sb1_516">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Tarjeta de crédito</value>
+    </customvalue>
+    <customvalue scriptid="val_42738_5469654_sb1_542">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Préstamo</value>
+    </customvalue>
+    <customvalue scriptid="val_42739_5469654_sb1_607">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Cuenta x Cobrar</value>
+    </customvalue>
+    <customvalue scriptid="val_42740_5469654_sb1_650">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Cuenta Corriente</value>
+    </customvalue>
+    <customvalue scriptid="val_42741_5469654_sb1_685">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Cheque</value>
+    </customvalue>
+    <customvalue scriptid="val_42742_5469654_sb1_480">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Tarjeta de Regalo</value>
+    </customvalue>
+    <customvalue scriptid="val_42743_5469654_sb1_707">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Bono Fidelización</value>
+    </customvalue>
+    <customvalue scriptid="val_42744_5469654_sb1_340">
+      <abbreviation>D</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Descuento por Planilla</value>
+    </customvalue>
+    <customvalue scriptid="val_42745_5469654_sb1_583">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Bono Empresarial</value>
+    </customvalue>
+    <customvalue scriptid="val_42746_5469654_sb1_445">
+      <abbreviation>M</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Multicard</value>
+    </customvalue>
+    <customvalue scriptid="val_42747_5469654_sb1_148">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Pago QR</value>
+    </customvalue>
+  </customvalues>
+</customlist>

@@ -1,0 +1,5 @@
+<subtab scriptid="custtab_sdb_documentos_compra">
+  <parent></parent>
+  <tabtype>TRANSACTION</tabtype>
+  <title>Documentos de compra</title>
+</subtab>

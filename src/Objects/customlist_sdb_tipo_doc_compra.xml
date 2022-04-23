@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_sdb_tipo_doc_compra">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Tipo de documento de compra</name>
+  <customvalues>
+    <customvalue scriptid="val_47223_5469654_sb1_334">
+      <abbreviation>F</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Factura</value>
+    </customvalue>
+    <customvalue scriptid="val_47224_5469654_sb1_601">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Confirmación</value>
+    </customvalue>
+    <customvalue scriptid="val_47225_5469654_sb1_909">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Producción</value>
+    </customvalue>
+    <customvalue scriptid="val_47226_5469654_sb1_364">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Bill of Lading</value>
+    </customvalue>
+    <customvalue scriptid="val_47227_5469654_sb1_776">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Conocimiento Rodoviario de Transporte</value>
+    </customvalue>
+  </customvalues>
+</customlist>

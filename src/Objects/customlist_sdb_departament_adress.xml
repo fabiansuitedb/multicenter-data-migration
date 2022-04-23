@@ -1,0 +1,49 @@
+<customlist scriptid="customlist_sdb_departament_adress">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Departamento Direccion</name>
+  <customvalues>
+    <customvalue scriptid="val_22255_5469654_sb1_135">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Santa Cruz</value>
+    </customvalue>
+    <customvalue scriptid="val_22256_5469654_sb1_220">
+      <abbreviation>L</abbreviation>
+      <isinactive>F</isinactive>
+      <value>La Paz</value>
+    </customvalue>
+    <customvalue scriptid="val_22257_5469654_sb1_755">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Cochabamba</value>
+    </customvalue>
+    <customvalue scriptid="val_22258_5469654_sb1_836">
+      <abbreviation>T</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Tarija</value>
+    </customvalue>
+    <customvalue scriptid="val_22259_5469654_sb1_250">
+      <abbreviation>B</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Beni</value>
+    </customvalue>
+    <customvalue scriptid="val_22260_5469654_sb1_127">
+      <abbreviation>S</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Sucre</value>
+    </customvalue>
+    <customvalue scriptid="val_22261_5469654_sb1_598">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Potosi</value>
+    </customvalue>
+    <customvalue scriptid="val_22262_5469654_sb1_916">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Oruro</value>
+    </customvalue>
+  </customvalues>
+</customlist>

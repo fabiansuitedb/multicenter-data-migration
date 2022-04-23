@@ -1,0 +1,13 @@
+<customglplugin scriptid="customscript_sdb_generar_lineas_journal">
+  <description></description>
+  <isinactive>T</isinactive>
+  <loglevel>DEBUG</loglevel>
+  <name>SDB | Generar Lineas Journal Entry</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <runasrole></runasrole>
+  <scriptfile>[/SuiteScripts/SDB-GLImpact-PlugIn.js]</scriptfile>
+  <status>RELEASED</status>
+</customglplugin>

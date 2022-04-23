@@ -1,0 +1,19 @@
+<customlist scriptid="customlist_sdb_pertenencia">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Opciones Pertenencia </name>
+  <customvalues>
+    <customvalue scriptid="val_20019_5469654_sb1_136">
+      <abbreviation>E</abbreviation>
+      <isinactive>F</isinactive>
+      <value>En consignación</value>
+    </customvalue>
+    <customvalue scriptid="val_20020_5469654_sb1_928">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>Propio</value>
+    </customvalue>
+  </customvalues>
+</customlist>

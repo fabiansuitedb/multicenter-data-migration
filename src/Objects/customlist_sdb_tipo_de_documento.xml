@@ -1,0 +1,34 @@
+<customlist scriptid="customlist_sdb_tipo_de_documento">
+  <description></description>
+  <isinactive>F</isinactive>
+  <ismatrixoption>F</ismatrixoption>
+  <isordered>T</isordered>
+  <name>Tipo de Documento</name>
+  <customvalues>
+    <customvalue scriptid="val_92604_t2158095_896">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CI - Cedula de Identidad</value>
+    </customvalue>
+    <customvalue scriptid="val_52362_5469654_sb1_333">
+      <abbreviation>C</abbreviation>
+      <isinactive>F</isinactive>
+      <value>CEX - Cedula de Identidad de Extranjero</value>
+    </customvalue>
+    <customvalue scriptid="val_52363_5469654_sb1_545">
+      <abbreviation>P</abbreviation>
+      <isinactive>F</isinactive>
+      <value>PAS - Pasaporte</value>
+    </customvalue>
+    <customvalue scriptid="val_52364_5469654_sb1_745">
+      <abbreviation>O</abbreviation>
+      <isinactive>F</isinactive>
+      <value>OD - Otro Documento de Identidad</value>
+    </customvalue>
+    <customvalue scriptid="val_52365_5469654_sb1_665">
+      <abbreviation>N</abbreviation>
+      <isinactive>F</isinactive>
+      <value>NIT - Numero de Identificacion Tributaria</value>
+    </customvalue>
+  </customvalues>
+</customlist>

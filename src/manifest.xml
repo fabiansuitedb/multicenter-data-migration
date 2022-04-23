@@ -1,0 +1,70 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>Multicenter sb objects</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="true">LOCATIONS</feature>
+      <feature required="true">DEPARTMENTS</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">CUSTOMTRANSACTIONS</feature>
+      <feature required="true">INVENTORY</feature>
+      <feature required="false">TIMETRACKING</feature>
+      <feature required="false">WEBSITE</feature>
+      <feature required="false">OPPORTUNITIES</feature>
+      <feature required="false">PAYCHECKJOURNAL</feature>
+      <feature required="true">ADDRESSCUSTOMIZATION</feature>
+      <feature required="true">MULTICURRENCY</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">EXPREPORTS</feature>
+      <feature required="true">ACCOUNTING</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">SUBSIDIARIES</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+      <feature required="false">PERIODENDJOURNALENTRIES</feature>
+      <feature required="true">UNITSOFMEASURE</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="true">MATRIXITEMS</feature>
+      <feature required="true">AVAILABLETOPROMISE</feature>
+      <feature required="true">SFA</feature>
+      <feature required="true">PAYMENTINSTRUMENTS</feature>
+      <feature required="true">ADVINVENTORYMGMT</feature>
+      <feature required="true">MERCHANDISEHIERARCHY</feature>
+      <feature required="true">INVENTORYSTATUS</feature>
+      <feature required="false">CHARGEBASEDBILLING</feature>
+      <feature required="true">ADVTAXENGINE</feature>
+      <feature required="true">MULTILOCINVT</feature>
+      <feature required="true">ITEMDEMANDPLANNING</feature>
+      <feature required="true">RECEIVABLES</feature>
+      <feature required="true">ADVRECEIVING</feature>
+      <feature required="true">STOREPICKUP</feature>
+      <feature required="true">MULTICURRENCYVENDOR</feature>
+      <feature required="true">PAYABLES</feature>
+      <feature required="true">DISTRIBUTIONRESOURCEPLANNING</feature>
+      <feature required="true">CUSTOMGLLINES</feature>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="true">WORKFLOW</feature>
+    </features>
+    <objects>
+      <object>custentity_2663_direct_debit</object>
+      <object>custbody_11187_pref_entity_bank</object>
+      <object>custentity_4601_defaultwitaxcode</object>
+      <object>custbody_11724_pay_bank_fees</object>
+      <object>customlist_fam_list_usedaccounts</object>
+      <object>customrecord_4601_witaxcode</object>
+      <object>custtab_10_4533432_230</object>
+      <object>customtransaction_fam_depr_jrn</object>
+      <object>custentity_2663_email_address_notif</object>
+      <object>custitem_4601_defaultwitaxcode</object>
+      <object>custtab_11_4533432_230</object>
+      <object>custtab_multicard_subtab</object>
+      <object>customrecord_2663_entity_bank_details</object>
+      <object>custtab_12_4533432_230</object>
+      <object>custrecord_fam_account_showinfixedasset</object>
+      <object>customrecord_2663_entity_bank_details.custrecord_2663_parent_customer</object>
+      <object>customrecord_2663_entity_bank_details.custrecord_2663_parent_cust_ref</object>
+      <object>custbody_11724_bank_fee</object>
+    </objects>
+  </dependencies>
+</manifest>

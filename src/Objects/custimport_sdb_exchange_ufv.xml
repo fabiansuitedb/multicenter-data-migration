@@ -1,0 +1,68 @@
+<savedcsvimport scriptid="custimport_sdb_exchange_ufv">
+  <charencoding>windows-1252</charencoding>
+  <columndelimiter>COMMA</columndelimiter>
+  <datahandling>ADD</datahandling>
+  <decimaldelimiter>PERIOD</decimaldelimiter>
+  <description>Valores iniciales UFV</description>
+  <ignorereadonly>T</ignorereadonly>
+  <importname>SDB | UFV Exchange Rate</importname>
+  <logsystemnotescustfields>F</logsystemnotescustfields>
+  <multiselectdelimiter>|</multiselectdelimiter>
+  <overwritesublists>F</overwritesublists>
+  <recordtype>CURRENCYRATE</recordtype>
+  <runserversuitescript>F</runserversuitescript>
+  <usemultithread>F</usemultithread>
+  <validatemandatorycustfields>T</validatemandatorycustfields>
+  <audience>
+    <allemployees>F</allemployees>
+    <allpartners>F</allpartners>
+    <allroles>F</allroles>
+    <globaledit>F</globaledit>
+    <ispublic>F</ispublic>
+    <roles></roles>
+  </audience>
+  <filemappings>
+    <filemapping>
+      <file>CURRENCYRATE</file>
+    </filemapping>
+  </filemappings>
+  <recordmappings>
+    <recordmapping>
+      <record>CURRENCYRATE</record>
+      <fieldmappings>
+        <fieldmapping>
+          <field>BASECURRENCY</field>
+          <columnreference>
+            <column>Base Currency</column>
+            <file>CURRENCYRATE</file>
+            <type>NAME</type>
+          </columnreference>
+        </fieldmapping>
+        <fieldmapping>
+          <field>EFFECTIVEDATE</field>
+          <columnreference>
+            <column>Effective Date</column>
+            <file>CURRENCYRATE</file>
+            <type>NAME</type>
+          </columnreference>
+        </fieldmapping>
+        <fieldmapping>
+          <field>EXCHANGERATE</field>
+          <columnreference>
+            <column>Exchange Rate</column>
+            <file>CURRENCYRATE</file>
+            <type>NAME</type>
+          </columnreference>
+        </fieldmapping>
+        <fieldmapping>
+          <field>TRANSACTIONCURRENCY</field>
+          <columnreference>
+            <column>Currency</column>
+            <file>CURRENCYRATE</file>
+            <type>NAME</type>
+          </columnreference>
+        </fieldmapping>
+      </fieldmappings>
+    </recordmapping>
+  </recordmappings>
+</savedcsvimport>
